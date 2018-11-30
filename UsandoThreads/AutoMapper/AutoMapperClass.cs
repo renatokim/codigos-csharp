@@ -18,12 +18,10 @@ namespace UsandoThreads.AutoMapper
         {
             var order = new Order 
             {
-
                 Id = 1,
                 Descricao = "teste",
                 Usuario = new Usuario
                 {
-
                     Id = 1,
                     Login = "renato.kim@hotmail.com",
                     Senha = "1234"
@@ -32,9 +30,6 @@ namespace UsandoThreads.AutoMapper
 
             OrderDto dto = Mapper.Map<OrderDto>(order);
 
-
         }
-
-
     }
 }
