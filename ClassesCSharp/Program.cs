@@ -11,7 +11,14 @@ namespace ClassesCSharp
         static void Main(string[] args)
         {
             var hasCode = new HashSetClass();
-            hasCode.HashSetClassPrint();
+            //hasCode.HashSetClassPrint();
+            //hasCode.SortedSet();
+            //hasCode.SortedSetObject();
+            var lista = hasCode.GeraList();
+            foreach (var item in lista)
+            {
+                Console.WriteLine(item);
+            }
 
         }
     }
