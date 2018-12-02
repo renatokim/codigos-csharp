@@ -1,0 +1,5 @@
+C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\bin\Debug\ClassesCSharp.exe.config
+C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\bin\Debug\ClassesCSharp.exe
+C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\bin\Debug\ClassesCSharp.pdb
+C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\obj\Debug\ClassesCSharp.exe
+C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\obj\Debug\ClassesCSharp.pdb
