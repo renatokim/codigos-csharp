@@ -41,7 +41,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CloneClass.cs" />
+    <Compile Include="FlagsClass.cs" />
     <Compile Include="HashSetClass.cs" />
+    <Compile Include="ObservableCollectionClass.cs" />
     <Compile Include="Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

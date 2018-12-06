@@ -3,3 +3,8 @@ C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCShar
 C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\bin\Debug\ClassesCSharp.pdb
 C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\obj\Debug\ClassesCSharp.exe
 C:\Users\Rebato\documents\visual studio 2013\Projects\UsandoThreads\ClassesCSharp\obj\Debug\ClassesCSharp.pdb
+C:\Users\Rebato\Documents\Visual Studio 2013\Projects\CSharpAvancado\ClassesCSharp\bin\Debug\ClassesCSharp.exe.config
+C:\Users\Rebato\Documents\Visual Studio 2013\Projects\CSharpAvancado\ClassesCSharp\bin\Debug\ClassesCSharp.exe
+C:\Users\Rebato\Documents\Visual Studio 2013\Projects\CSharpAvancado\ClassesCSharp\bin\Debug\ClassesCSharp.pdb
+C:\Users\Rebato\Documents\Visual Studio 2013\Projects\CSharpAvancado\ClassesCSharp\obj\Debug\ClassesCSharp.exe
+C:\Users\Rebato\Documents\Visual Studio 2013\Projects\CSharpAvancado\ClassesCSharp\obj\Debug\ClassesCSharp.pdb

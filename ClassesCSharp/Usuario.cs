@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesCSharp
 {
-    public class Usuario : IComparable
+    public class Usuario : IComparable, ICloneable
     {
         public int Id { get; set; }
         public string Login { get; set; }
@@ -21,6 +21,18 @@ namespace ClassesCSharp
                 return this.Id.CompareTo(otherTemperature.Id);
             else
                 throw new ArgumentException("Object is not a Usuario");
+        }
+
+        public object Clone()
+        {
+            var usuario = new Usuario
+            {
+                Id = this.Id,
+                Login = this.Login,
+                Senha = this.Senha
+            };
+
+            return usuario;
         }
     }
 }

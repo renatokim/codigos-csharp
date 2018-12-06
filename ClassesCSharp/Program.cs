@@ -1,5 +1,7 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,12 +16,17 @@ namespace ClassesCSharp
             //hasCode.HashSetClassPrint();
             //hasCode.SortedSet();
             //hasCode.SortedSetObject();
-            var lista = hasCode.GeraList();
-            foreach (var item in lista)
-            {
-                Console.WriteLine(item);
-            }
+            
+            var flags = new FlagsClass();
+            //flags.MostrarBandeiras();
 
+            var clone = new CloneClass();
+            //clone.Acoes();
+
+            var observable = new ObservableCollectionClass();
+            observable.MostarObservable();
         }
+
+
     }
 }
